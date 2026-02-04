@@ -2,6 +2,8 @@ Trader Performance vs Market Sentiment Analysis
 Project Overview
 This project analyzes the relationship between Bitcoin Market Sentiment (Fear/Greed Index) and trader behavior/performance on the Hyperliquid exchange. The goal is to identify how extreme market emotions impact profitability and trading frequency.
 
+<img width="512" height="307" alt="image" src="https://github.com/user-attachments/assets/0d1c97fa-73ad-4327-a7fa-fa5563f71769" />
+
 Setup & How to Run
 Clone the repo: git clone <your-repo-link>
 
